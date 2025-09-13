@@ -32,4 +32,5 @@
 # Сюжет
 
 ### [Глава 1 - (Оборона Баровии)](chapters/first)
-### [Глава 2 - (?)](chapters/second)
+### [Глава 2 - (Путь в Валакии)](chapters/second)
+### [Глава 3 - (?)](chapters/third)
