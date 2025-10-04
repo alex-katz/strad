@@ -24,6 +24,7 @@
 - [Айзек](npc/izek.md)
 - [Арабель](npc/arabelle.md)
 - [Блинский](npc/blinsky.md)
+- [Вампирское отродье](npc/vampire-spawn.md)
 - [Варгос Валакиевич](npc/vargas-vallakovich.md)
 - [Веремина](npc/veremina.md)
 - [Виктор Валакиевич](npc/viktor-vallakovich.md)
@@ -63,6 +64,7 @@
 ## Персонажи игроков (PC)
 
 - [Брина](pc/brina.md)
+- [Кристоф](pc/kristof.md)
 - [Ксир’рогин](pc/ksirrogin.md)
 - [Понуки](pc/ponuki.md)
 - [Раэль](pc/raelle.md)
