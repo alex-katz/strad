@@ -4,8 +4,8 @@
 
 ## Активные задания
 
-- [Защитить деревню Баровия](active/defend-barovia.md)
+- [Помочь Ирине покинуть Баровию](active/help-ireena-escape.md)
 
 ## Выполненные задания
 
-- [Название задания](completed/quest-name.md)
+- [Защитить деревню Баровия](completed/defend-barovia.md)

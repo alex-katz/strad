@@ -10,8 +10,10 @@
 - [Ирина Коляна](npc/ireena-kolyana.md)
 - [Исмарк Колянович](npc/ismark-kolyanovich.md)
 - [Колян](npc/kolyan.md)
+- [Рахадин](npc/rahadin.md)
 - [Рудольф ван Рихтен](npc/rudolph-van-richten.md)
 - [Страд фон Зарович](npc/strahd-von-zarovich.md)
+- [Таинственный Ворон](npc/raven.md)
 
 ## Персонажи игроков (PC)
 

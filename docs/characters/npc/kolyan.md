@@ -1,6 +1,6 @@
 # Колян
 
 **Раса:** Человек  
-**Местоположение:** [Деревня Баровия](../../locations/barovia-village.md)
+**Статус:** Мёртв
 
-Отец [Исмарка](ismark-kolyanovich.md) и [Ирины](ireena-kolyana.md). Владелец [дома](../../locations/kolyans-house.md), где мы обедали.
+Отец [Исмарка](ismark-kolyanovich.md) и [Ирины](ireena-kolyana.md). Был убит [Страдом](strahd-von-zarovich.md) в своём [доме](../../locations/kolyans-house.md) после того, как, находясь под внушением, пригласил вампира войти.
