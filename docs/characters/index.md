@@ -10,6 +10,7 @@
 - [Ирина Коляна](npc/ireena-kolyana.md)
 - [Исмарк Колянович](npc/ismark-kolyanovich.md)
 - [Колян](npc/kolyan.md)
+- [Мадам Ева](npc/madam-eva.md)
 - [Рахадин](npc/rahadin.md)
 - [Рудольф ван Рихтен](npc/rudolph-van-richten.md)
 - [Страд фон Зарович](npc/strahd-von-zarovich.md)
@@ -17,4 +18,6 @@
 
 ## Персонажи игроков (PC)
 
-- [Имя персонажа](pc/player-name.md)
+- [Брина](pc/brina.md)
+- [Понуки](pc/ponuki.md)
+- [Раэль](pc/raelle.md)

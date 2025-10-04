@@ -6,3 +6,5 @@
 
 - [Таверна «Кровь Вина»](blood-of-the-vine-tavern.md)
 - [Дом семьи Коляновичей](kolyans-house.md)
+- [Церковь Доновича](donavichs-church.md)
+- [Кладбище](barovia-cemetery.md)
