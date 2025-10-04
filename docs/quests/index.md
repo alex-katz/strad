@@ -5,6 +5,7 @@
 ## Активные задания
 
 - [Помочь Ирине покинуть Баровию](active/help-ireena-escape.md)
+- [Помочь раненому ворону](active/help-the-raven.md)
 - [Упокоить душу Дору](active/pacify-doru.md)
 
 ## Выполненные задания

@@ -9,4 +9,6 @@
 
 ## Прогресс
 
-После похорон [Коляна](../../characters/npc/kolyan.md) мы покинули [деревню Баровия](../../locations/barovia-village.md) вместе с [Ириной](../../characters/npc/ireena-kolyana.md). [Исмарк](../../characters/npc/ismark-kolyanovich.md) остался в деревне в качестве нового главы. Чтобы [Ирину](../../characters/npc/ireena-kolyana.md) было сложнее узнать, мы перекрасили ей волосы.
+Мы покинули [деревню Баровия](../../locations/barovia-village.md) вместе с [Ириной](../../characters/npc/ireena-kolyana.md). Чтобы её было сложнее узнать, мы перекрасили ей волосы.
+
+По пути мы столкнулись со [Страдом](../../characters/npc/strahd-von-zarovich.md). Нам удалось убедить его позволить Ирине остаться с нами под предлогом, что она научит нас местным обычаям.
