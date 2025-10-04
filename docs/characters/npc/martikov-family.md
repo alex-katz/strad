@@ -2,7 +2,7 @@
 
 **Местоположение:** [Таверна "Синяя Вода"](../../locations/blue-water-inn.md)
 
-Семья, владеющая [таверной "Синяя Вода"](../../locations/blue-water-inn.md) в [Валакии](../../locations/vallaki.md).
+Семья, владеющая [таверной "Синяя Вода"](../../locations/blue-water-inn.md) в [Валакии](../../locations/vallaki.md). Они согласились помочь нам накормить [беженцев из Баровии](../../locations/barovian-refugee-camp.md).
 
 ## Члены семьи
 

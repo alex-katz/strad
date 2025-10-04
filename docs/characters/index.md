@@ -26,12 +26,17 @@
 - [Блинский](npc/blinsky.md)
 - [Варгос Валакиевич](npc/vargas-vallakovich.md)
 - [Веремина](npc/veremina.md)
+- [Виктор Валакиевич](npc/viktor-vallakovich.md)
 - [Евгений Кружкин](npc/evgeny-kruzhkin.md)
+- [Лидия Валакиевич](npc/lidia-vallakovich.md)
+- [Молец Еске](npc/molets-yeske.md)
 - [Обитательницы старой мельницы](npc/old-mill-crones.md)
 - [Отец Лукьян](npc/father-lucian.md)
 - [Ректавио](npc/rictavio.md)
 - [Семья Мартиковых](npc/martikov-family.md)
+- [Стелла Вахтер](npc/stella-wachter.md)
 - [Фиона Вахтер](npc/fiona-wachter.md)
+- [Фриц фон Вирх](npc/fritz-von-weerg.md)
 - [Шальдар Шальдарович](npc/shaldar-shaldarovich.md)
 
 ### Орден Серебряного Дракона
