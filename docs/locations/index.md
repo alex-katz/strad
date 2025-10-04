@@ -13,5 +13,6 @@
 - [Озеро Тсер](lake-tser.md)
 - [Стоянка Вистани](vistani-camp.md)
 - [Таверна «Кровь Вина»](blood-of-the-vine-tavern.md)
+- [Холм Лугдана](lugdan-hill.md)
 - [Церковь Доновича](donavichs-church.md)
 - [Церковь Святого Андрала](st-andrals-church.md)

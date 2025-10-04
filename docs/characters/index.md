@@ -4,7 +4,7 @@
 
 ## Неигровые персонажи (NPC)
 
-- [Аланик Рэй](npc/alanik-ray.md)
+- [Билдред](npc/bildrath.md)
 - [Донович](npc/donavich.md)
 - [Дору](npc/doru.md)
 - [Ирина Коляна](npc/ireena-kolyana.md)

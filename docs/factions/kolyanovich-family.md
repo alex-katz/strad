@@ -5,5 +5,5 @@
 ## Члены семьи
 
 - [Колян](../characters/npc/kolyan.md) — отец (мёртв).
-- [Исмарк Колянович](../characters/npc/ismark-kolyanovich.md) — сын.
-- [Ирина Коляна](../characters/npc/ireena-kolyana.md) — дочь (возможно, приёмная).
+- [Исмарк Колянович](../characters/npc/ismark-kolyanovich.md) — сын, новый глава деревни.
+- [Ирина Коляна](../characters/npc/ireena-kolyana.md) — приемная дочь, покинула деревню с нами.

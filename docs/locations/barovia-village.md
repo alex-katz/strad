@@ -8,3 +8,4 @@
 - [Дом семьи Коляновичей](kolyans-house.md)
 - [Церковь Доновича](donavichs-church.md)
 - [Кладбище](barovia-cemetery.md)
+- [Холм Лугдана](lugdan-hill.md) (недалеко от деревни)
