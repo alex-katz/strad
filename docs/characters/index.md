@@ -4,20 +4,36 @@
 
 ## Неигровые персонажи (NPC)
 
+### Деревня Баровия
+
 - [Билдред](npc/bildrath.md)
 - [Донович](npc/donavich.md)
 - [Дору](npc/doru.md)
-- [Элиза](npc/eliza.md)
-- [Эшер](npc/esher.md)
-- [Ирина Коляна](npc/ireena-kolyana.md)
 - [Исмарк Колянович](npc/ismark-kolyanovich.md)
 - [Колян](npc/kolyan.md)
 - [Семья Ланстен](npc/lansten-family.md)
-- [Станимир](npc/stanimir.md)
+
+### Озеро Тсер
+
 - [Мадам Ева](npc/madam-eva.md)
-- [Рахадин](npc/rahadin.md)
-- [Рудольф ван Рихтен](npc/rudolph-van-richten.md)
+- [Станимир](npc/stanimir.md)
+- [Элиза](npc/eliza.md)
+
+### Валакия и окрестности
+
+- [Арабель](npc/arabelle.md)
+- [Блинский](npc/blinsky.md)
+
+### Замок Рэйвенлофт
+
 - [Страд фон Зарович](npc/strahd-von-zarovich.md)
+- [Рахадин](npc/rahadin.md)
+- [Эшер](npc/esher.md)
+
+### Местоположение неизвестно / Путешествуют с группой
+
+- [Ирина Коляна](npc/ireena-kolyana.md)
+- [Рудольф ван Рихтен](npc/rudolph-van-richten.md)
 - [Таинственный Ворон](npc/raven.md)
 
 ## Персонажи игроков (PC)
