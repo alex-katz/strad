@@ -7,11 +7,11 @@
 - [Помочь Ирине покинуть Баровию](active/help-ireena-escape.md)
 - [Помочь раненому ворону](active/help-the-raven.md)
 - [Упокоить душу Дору](active/pacify-doru.md)
-- [Найти символ Утреннего бога](active/find-symbol-of-the-morning-god.md)
 - [Навестить Арабель](active/visit-arabelle.md)
 - [Найти союзника в борьбе со Страдом](active/find-strahds-enemy.md)
 - [Найти Солнечный меч](active/find-sunsword.md)
-- [Найти Фолиант Страда](active/find-tome-of-strahd.md)
+- [Найти Знания прошлого](active/find-knowledge-of-the-past.md)
+- [Найти символ Утреннего бога](active/find-symbol-of-the-morning-god.md)
 
 ## Выполненные задания
 

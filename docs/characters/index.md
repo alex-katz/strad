@@ -24,6 +24,12 @@
 - [Арабель](npc/arabelle.md)
 - [Блинский](npc/blinsky.md)
 
+### Орден Серебряного Дракона
+
+- [Бессмертный страж](npc/undead-paladin.md)
+- [Владимир Хорнгард](npc/vladimir-horngard.md)
+- [Сир Готфри](npc/sir-godfrey.md)
+
 ### Замок Рэйвенлофт
 
 - [Страд фон Зарович](npc/strahd-von-zarovich.md)
@@ -33,6 +39,7 @@
 ### Местоположение неизвестно / Путешествуют с группой
 
 - [Ирина Коляна](npc/ireena-kolyana.md)
+- [Всадник без головы](npc/headless-horseman.md)
 - [Рудольф ван Рихтен](npc/rudolph-van-richten.md)
 - [Таинственный Ворон](npc/raven.md)
 

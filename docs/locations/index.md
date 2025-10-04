@@ -17,12 +17,18 @@
 - [Озеро Тсер](lake-tser.md)
 - [Стоянка Вистани](vistani-camp.md)
 - [Виселица на развилке](gallows.md)
+- [Сторожевая башня](watchtower.md)
+- [Старый каменный мост](old-stone-bridge.md)
 
 ## Валакия
 
 - [Валакия](vallaki.md)
 - [Церковь Святого Андрала](st-andrals-church.md)
 - [Магазин игрушек Блинского](blinskys-toy-shop.md)
+
+## Аргинвостхольт
+
+- [Аргинвостхольт](argynvostholt.md)
 
 ## Крезк
 
