@@ -17,11 +17,13 @@
 - [Озеро Тсер](lake-tser.md)
 - [Стоянка Вистани](vistani-camp.md)
 - [Виселица на развилке](gallows.md)
+- [Старая мельница](old-mill.md)
 - [Сторожевая башня](watchtower.md)
 - [Старый каменный мост](old-stone-bridge.md)
 
 ## Валакия
 
+- [Лагерь беженцев из Баровии](barovian-refugee-camp.md)
 - [Валакия](vallaki.md)
 - [Церковь Святого Андрала](st-andrals-church.md)
 - [Магазин игрушек Блинского](blinskys-toy-shop.md)

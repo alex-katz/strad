@@ -23,6 +23,7 @@
 
 - [Арабель](npc/arabelle.md)
 - [Блинский](npc/blinsky.md)
+- [Обитательницы старой мельницы](npc/old-mill-crones.md)
 
 ### Орден Серебряного Дракона
 
@@ -49,3 +50,4 @@
 - [Ксир’рогин](pc/ksirrogin.md)
 - [Понуки](pc/ponuki.md)
 - [Раэль](pc/raelle.md)
+- [Тернин](pc/ternin.md)
