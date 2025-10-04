@@ -25,11 +25,14 @@
 - [Арабель](npc/arabelle.md)
 - [Блинский](npc/blinsky.md)
 - [Варгос Валакиевич](npc/vargas-vallakovich.md)
+- [Веремина](npc/veremina.md)
+- [Евгений Кружкин](npc/evgeny-kruzhkin.md)
 - [Обитательницы старой мельницы](npc/old-mill-crones.md)
 - [Отец Лукьян](npc/father-lucian.md)
 - [Ректавио](npc/rictavio.md)
 - [Семья Мартиковых](npc/martikov-family.md)
 - [Фиона Вахтер](npc/fiona-wachter.md)
+- [Шальдар Шальдарович](npc/shaldar-shaldarovich.md)
 
 ### Орден Серебряного Дракона
 

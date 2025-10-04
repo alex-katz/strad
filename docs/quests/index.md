@@ -10,6 +10,7 @@
 - [Найти союзника в борьбе со Страдом](active/find-strahds-enemy.md)
 - [Найти Солнечный меч](active/find-sunsword.md)
 - [Найти Знания прошлого](active/find-knowledge-of-the-past.md)
+- [Найти кости святого Андрала](active/find-saints-bones.md)
 - [Найти символ Утреннего бога](active/find-symbol-of-the-morning-god.md)
 
 ## Выполненные задания

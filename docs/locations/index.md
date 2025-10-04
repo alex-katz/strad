@@ -23,6 +23,8 @@
 
 ## Валакия
 
+- [Древний каменный стол](ancient-stone-table.md)
+- [Дом охотников](hunters-house.md)
 - [Лагерь беженцев из Баровии](barovian-refugee-camp.md)
 - [Валакия](vallaki.md)
 - [Таверна "Синяя Вода"](blue-water-inn.md)
