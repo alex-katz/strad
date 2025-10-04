@@ -21,9 +21,15 @@
 
 ### Валакия и окрестности
 
+- [Айзек](npc/izek.md)
 - [Арабель](npc/arabelle.md)
 - [Блинский](npc/blinsky.md)
+- [Варгос Валакиевич](npc/vargas-vallakovich.md)
 - [Обитательницы старой мельницы](npc/old-mill-crones.md)
+- [Отец Лукьян](npc/father-lucian.md)
+- [Ректавио](npc/rictavio.md)
+- [Семья Мартиковых](npc/martikov-family.md)
+- [Фиона Вахтер](npc/fiona-wachter.md)
 
 ### Орден Серебряного Дракона
 

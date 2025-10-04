@@ -25,6 +25,7 @@
 
 - [Лагерь беженцев из Баровии](barovian-refugee-camp.md)
 - [Валакия](vallaki.md)
+- [Таверна "Синяя Вода"](blue-water-inn.md)
 - [Церковь Святого Андрала](st-andrals-church.md)
 - [Магазин игрушек Блинского](blinskys-toy-shop.md)
 
