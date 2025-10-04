@@ -1,0 +1,11 @@
+site_name: Проклятье Страда
+site_description: 'Проклятье Страда'
+theme: cosmo
+
+nav:
+  - 'Главная': 'index.md'
+  - 'Лог кампании': 'log/index.md'
+  - 'Персонажи': 'characters/index.md'
+  - 'Локации': 'locations/index.md'
+  - 'Фракции и Семьи': 'factions/index.md'
+  - 'Задания': 'quests/index.md'
