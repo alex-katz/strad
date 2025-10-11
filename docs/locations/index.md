@@ -16,6 +16,7 @@
 
 - [Озеро Тсер](lake-tser.md)
 - [Стоянка Вистани](vistani-camp.md)
+- [Река Луна](luna-river.md)
 - [Виселица на развилке](gallows.md)
 - [Старая мельница](old-mill.md)
 - [Сторожевая башня](watchtower.md)
@@ -36,6 +37,10 @@
 
 - [Аргинвостхольт](argynvostholt.md)
 
+## Берез
+
+- [Берез](berez.md)
+
 ## Крезк
 
 - [Крезк](krezk.md)
@@ -49,3 +54,4 @@
 
 - [Виноградник "Винный Волшебник"](wizard-of-wines-winery.md)
 - [Янтарный Храм](amber-temple.md)
+- [Гора Гакес](mount-ghakis.md)

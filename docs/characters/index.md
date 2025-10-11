@@ -22,31 +22,41 @@
 ### Валакия и окрестности
 
 - [Айзек](npc/izek.md)
+- [Алексей](npc/alexei.md)
 - [Арабель](npc/arabelle.md)
+- [Арегал](npc/arregal.md)
 - [Блинский](npc/blinsky.md)
 - [Вампирское отродье](npc/vampire-spawn.md)
 - [Варгос Валакиевич](npc/vargas-vallakovich.md)
 - [Веремина](npc/veremina.md)
 - [Виктор Валакиевич](npc/viktor-vallakovich.md)
 - [Евгений Кружкин](npc/evgeny-kruzhkin.md)
+- [Казимир](npc/kasimir.md)
 - [Лидия Валакиевич](npc/lidia-vallakovich.md)
+- [Луваш](npc/luvash.md)
 - [Милливой](npc/milivoy.md)
 - [Молец Еске](npc/molets-yeske.md)
 - [Обитательницы старой мельницы](npc/old-mill-crones.md)
 - [Отец Лукьян](npc/father-lucian.md)
 - [Ректавио](npc/rictavio.md)
+- [Савид](npc/savid.md)
 - [Семья Мартиковых](npc/martikov-family.md)
 - [Стелла Вахтер](npc/stella-wachter.md)
 - [Фиона Вахтер](npc/fiona-wachter.md)
 - [Фриц фон Вирх](npc/fritz-von-weerg.md)
 - [Хенрик ван дер Ворт](npc/henrik-van-der-voort.md)
 - [Шальдар Шальдарович](npc/shaldar-shaldarovich.md)
+- [Ян](npc/yan.md)
 
 ### Орден Серебряного Дракона
 
 - [Бессмертный страж](npc/undead-paladin.md)
 - [Владимир Хорнгард](npc/vladimir-horngard.md)
 - [Сир Готфри](npc/sir-godfrey.md)
+
+### Берез
+
+- [Баба Лысага](npc/baba-lysaga.md)
 
 ### Замок Рэйвенлофт
 
