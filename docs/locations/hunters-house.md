@@ -2,4 +2,4 @@
 
 **Местоположение:** К северу от [Валакии](vallaki.md), у озера.
 
-Дом, в котором живут охотники [Евгений Кружкин](../characters/npc/evgeny-kruzhkin.md) и [Шальдар Шальдарович](../characters/npc/shaldar-shaldarovich.md).
+Дом, в котором живут охотники [Евгений Кружкин](../characters/npc/evgeny-kruzhkin.md) и [Шальдар Шальдарович](../characters/npc/shaldar-shaldarovich.md). Они могут за плату провести к [озеру Бараток](lake-baratok.md).

@@ -33,6 +33,11 @@
 - [Магазин игрушек Блинского](blinskys-toy-shop.md)
 - [Лавка гробовщика](coffin-makers-shop.md)
 
+## Озеро Бараток и окрестности
+
+- [Озеро Бараток](lake-baratok.md)
+- [Башня Хасана](khasans-tower.md)
+
 ## Аргинвостхольт
 
 - [Аргинвостхольт](argynvostholt.md)

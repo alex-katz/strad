@@ -4,6 +4,7 @@
 
 ## Активные задания
 
+- [Добыть артефакт для Виктора](active/get-artifact-for-viktor.md)
 - [Изгнать духа из дома барона](active/exorcise-ghost-in-barons-manor.md)
 - [Помочь беженцам](active/help-the-refugees.md)
 - [Упокоить душу Дору](active/pacify-doru.md)
