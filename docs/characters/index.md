@@ -70,6 +70,7 @@
 - [Всадник без головы](npc/headless-horseman.md)
 - [Рудольф ван Рихтен](npc/rudolph-van-richten.md)
 - [Таинственный Ворон](npc/raven.md)
+- [Эсмеральда Д'Авенир](npc/esmeralda-davvenir.md)
 
 ### Исторические личности
 
